@@ -8,11 +8,11 @@
 		<version>2.5.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.piotragier</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>net.piotragier</groupId>
+	<artifactId>xcms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>xcms</name>
+	<description>Simple CMS in Java</description>
 	<properties>
 		<java.version>15</java.version>
 	</properties>
